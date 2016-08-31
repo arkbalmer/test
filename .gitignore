@@ -1,0 +1,7 @@
+# all folders for ignore
+
+example_git_logs/
+
+# ignore all *.txt files in example_git_docs folder
+
+example_git_docs/*.txt
